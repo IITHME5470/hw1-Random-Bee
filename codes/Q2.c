@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#define MAX_FILENAME 64
+#define MAX_FILENAME 200
 
 // Function to free a matrix
 void free_matrix(double** matrix, int n) {
